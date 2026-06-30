@@ -199,4 +199,3 @@ if __name__ == "__main__":
     app.exec()
     print("exitssss")
     print("exit")
-    print("exit1")
