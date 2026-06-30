@@ -20,7 +20,7 @@ from Models import globals
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("F")
+        self.setWindowTitle("Flynn")
         self.resize(1320, 720)
         icon_path = os.path.join( "material","icomain.ico")
         self.setWindowIcon(QIcon(icon_path))       
