@@ -197,4 +197,5 @@ if __name__ == "__main__":
     form = MainWindow()
     form.show()
     app.exec()
+    print("exitssss")
     print("exit")
